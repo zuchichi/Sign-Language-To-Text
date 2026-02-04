@@ -42,4 +42,4 @@ cap.release()
 cv2.destroyAllWindows
 
 results.multi_hand_landmarks
-
+print("test")
